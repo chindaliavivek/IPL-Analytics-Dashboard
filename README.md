@@ -81,6 +81,7 @@ DIVIDE(
     SUM(deliveries.total_runs),
     COUNTROWS(deliveries) / 6
 )
+```
 
 ## 📈 Key Insights
 
