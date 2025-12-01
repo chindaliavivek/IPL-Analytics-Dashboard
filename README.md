@@ -37,6 +37,7 @@ The relationship used:
 matches[id] 1 ────∞ deliveries[match_id]
 
 
+
 - One-to-many  
 - Single direction (Matches → Deliveries)
 
