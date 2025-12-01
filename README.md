@@ -82,45 +82,46 @@ DIVIDE(
     COUNTROWS(deliveries) / 6
 )
 
-📈 Key Insights
+## 📈 Key Insights
 
-Teams with stronger opening partnerships tend to dominate tournaments.
+- Teams with stronger **opening partnerships** tend to dominate tournaments.
+- **Chennai, Mumbai, Kolkata** host the most matches historically.
+- Bowlers with lower **economy rates** correlate strongly with match-winning performances.
+- **Six-hitting ability** has increased consistently across seasons.
+- Toss decisions strongly influence match outcomes, especially in night matches.
 
-Chennai, Mumbai, Kolkata host the most matches historically.
+---
 
-Bowlers with lower economy rates correlate strongly with match-winning performances.
+## 🧩 Features of the Dashboard
 
-Six-hitting ability has increased consistently across seasons.
+✔ KPI Cards: Total Runs, Matches, Fours, Sixes, Wickets  
+✔ Top Run Scorers  
+✔ Top Six Hitters  
+✔ Best Wicket Takers  
+✔ Economy Rate Rankings  
+✔ Venue-wise Matches  
+✔ Toss Decision Analysis  
+✔ Match Result Breakdown  
+✔ Season / Team / Venue Filters  
+✔ Fully interactive & business-ready layout  
 
-Toss decisions strongly influence match outcomes, especially in night matches.
+---
 
-🧩 Features of the Dashboard
+## 🚀 How to Use
 
-✔ KPI Cards: Total Runs, Matches, Fours, Sixes, Wickets
-✔ Top Run Scorers
-✔ Top Six Hitters
-✔ Best Wicket Takers
-✔ Economy Rate Rankings
-✔ Venue-wise Matches
-✔ Toss Decision Analysis
-✔ Match Result Breakdown
-✔ Season / Team / Venue Filters
-✔ Fully interactive & business-ready layout
+1. Download `IPL_Dashboard.pbix`  
+2. Open in Power BI Desktop  
+3. Interact using slicers (Season, Team, Venue)  
+4. Explore batting, bowling, and match insights  
 
-🚀 How to Use
+---
 
-Download IPL_Dashboard.pbix
+## 👨‍💻 Author
 
-Open in Power BI Desktop
-
-Interact using slicers (Season, Team, Venue)
-
-Explore batting, bowling, and match insights
-
-👨‍💻 Author
-
-Vivek S. Chindalia
-B.E. Information Technology — Mumbai University
-📧 chindaliavivek@gmail.com
-
+**Vivek S. Chindalia**  
+B.E. Information Technology — Mumbai University  
+📧 chindaliavivek@gmail.com  
 🔗 GitHub: https://github.com/chindaliavivek
+
+
+
